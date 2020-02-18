@@ -33,7 +33,8 @@ Abaixo temos um exemplo do que encontramos nesse xml:
 
 ### Smali/Baksmali 
 
-O Smali é a versão human readable do Dalvik bytecode, simplificando, funciona como um assemble/disassemble 
+O Smali é a versão human readable do Dalvik bytecode, simplificando, funciona como um assemble/disassemble. Dalvik Executable format (.dex)
+
 
 A termos de código, vamos dar uma olhada na diferença entre Java e Smali:  
 
@@ -51,11 +52,19 @@ A termos de código, vamos dar uma olhada na diferença entre Java e Smali:
 	return-void
     .end method
 
+Tools: 
+Apktool 
 
 
 # Dynamic Analysis 
 
 
 
+## Tools 
+
+- Mobsf 
+
 
 # Static Analysis 
+
+- Mobsf 
