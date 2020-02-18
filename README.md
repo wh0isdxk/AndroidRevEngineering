@@ -31,6 +31,27 @@ Abaixo temos um exemplo do que encontramos nesse xml:
 - assets/ 
 
 
+### Smali/Baksmali 
+
+O Smali é a versão human readable do Dalvik bytecode, simplificando, funciona como um assemble/disassemble 
+
+A termos de código, vamos dar uma olhada na diferença entre Java e Smali:  
+
+    public static void printHelloWorld() {
+	System.out.println("Hello World")
+    }
+    
+  E o nosso mesmo código em Smali: 
+  
+    .method public static printHelloWorld()V
+	.registers 2
+	sget-object v0, Ljava/lang/System;->out:Ljava/io/PrintStream;
+	const-string v1, "Hello World"
+	invoke-virtual {v0,v1}, Ljava/io/PrintStream;->println(Ljava/lang/String;)V
+	return-void
+    .end method
+
+
 
 # Dynamic Analysis 
 
