@@ -24,6 +24,15 @@ Abaixo temos um exemplo do que encontramos nesse xml:
 
 - META-INF/ 
 
+Essa pasta contém dados relacionados ao Manifest e outros metadatas carregados pelo arquivo .jar.
+
+Dentro dele encontraremos os seguintes arquivos: 
+
+- MANIFEST.MF: versão do pacote, número da compilação, criador, etc. 
+- CERT.SF: Nesse doc encontramos a lista de todos os arquivos junto com o resumo do SHA-1.
+- CERT.RSA: Aqui temos o conteúdo assinado do arquivo CERT.SF, juntamente com os certificados da chave pública usada para assinatura. 
+
+
 - classes.dex 
 
 - lib/ 
