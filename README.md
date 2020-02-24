@@ -80,6 +80,9 @@ Chegando aqui, atente-se para algumas coisas que podem ser interessantes:
    	- Qual é método de autenticação utilizado? Eu preciso criar um login para acessar? 
   	- Quais são as chamadas que eu posso encontrar e quais são os parâmetros eles esperam?
  
+ Uma vez que temos o APK, é hora de fazer a descompilação do mesmo, para que possamos realizar a análise do código. 
+ 
+ (Ferramentas de Análise Dinâmica como o MOBSF permitem que você já consiga realizar o download do código diretamente, sendo ele em Java ou SMALI). 
 
 
 # Dynamic Analysis 
