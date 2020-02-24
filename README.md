@@ -67,10 +67,19 @@ Apktool
 ### Avengers, disassemble! 
 
 Passamos pelos conceitos básicos necessários e agora mãos a obra! 
+
 Passo 1: 
+
 Escolha o APK que você deseja fazer o Reversing. 
+
 Se você não encontrá-lo facilmente pela própria loja de aplicativos, pode fazer diretamente em sites como APKCombo ou APKMonk. 
 
+Chegando aqui, atente-se para algumas coisas que podem ser interessantes: 
+
+	- Qual é o URL da API?  (geralmente emos algo como api.domain.com)
+   	- Qual é método de autenticação utilizado? Eu preciso criar um login para acessar? 
+  	- Quais são as chamadas que eu posso encontrar e quais são os parâmetros eles esperam?
+ 
 
 
 # Dynamic Analysis 
