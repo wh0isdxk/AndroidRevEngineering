@@ -77,3 +77,13 @@ Apktool
 # Static Analysis 
 
 - Mobsf 
+
+# Materiais 
+
+Agora que já temos uma base de como isso funciona, é hora de praticar! 
+Deixo aqui, uma lista com alguns labs que você pode usar como exercício: 
+
+
+Obrigada por chegar até aqui! 
+
+Have a nice day. <3 
