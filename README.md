@@ -64,6 +64,14 @@ A termos de código, vamos dar uma olhada na diferença entre Java e Smali:
 Tools: 
 Apktool 
 
+### Avengers, disassemble! 
+
+Passamos pelos conceitos básicos necessários e agora mãos a obra! 
+Passo 1: 
+Escolha o APK que você deseja fazer o Reversing. 
+Se você não encontrá-lo facilmente pela própria loja de aplicativos, pode fazer diretamente em sites como APKCombo ou APKMonk. 
+
+
 
 # Dynamic Analysis 
 
