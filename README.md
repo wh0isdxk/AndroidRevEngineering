@@ -21,6 +21,8 @@ Abaixo temos um exemplo do que encontramos nesse xml:
     uses-permission android:name="android.permission.WAKE_LOCK" 
     
     uses-permission android:name="com.android.vending.BILLING" 
+    
+ Note que, em diversas aplicações, várias requisições de permissões são feitas mesmo que o app em si não necessite de tais funções. 
 
 - META-INF/ 
 
