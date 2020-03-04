@@ -105,6 +105,10 @@ Dentro dela conseguimos mais detalhes sobre as partes que compoẽm os APKs, e q
 
 - Frida 
 
+- adb (Android Debug Bridge) 
+
+Comandos: //soon
+
 
 # Static Analysis 
 
