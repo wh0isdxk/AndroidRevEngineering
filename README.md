@@ -4,6 +4,9 @@
 Neste repositório encontraremos um passo-a-passo de como realizar a Engenharia Reversa de um APK. 
 
 Começando pelo básico, podemos dividir o nosso Android Package (APK) em algumas partes:  
+
+![Untitled Diagram(1)](https://user-images.githubusercontent.com/37185061/76150991-a2224980-608e-11ea-8363-558491f9adda.png)
+
 - AndroidManifest.xml 
 
 Composto por todas as permissões que a aplicação vai ter, é responsável por fazer a definição da arquitetura desse apk. Dentro dele encontramos requisição de acesso a internet, GPS, notificações e qualquer outra coisa que o aplicativo venha a necessitar, são geralmente os acessos que o aplicativo pede na hora da instalação. Além disso, encontramos informações voltadas a versionamento, nome da aplicação, requisitos mínimos para que ela funcione, componentes voltados para Receivers, Senders e Providers e componentes 
