@@ -97,6 +97,7 @@ Chegando aqui, atente-se para algumas coisas que podem ser interessantes:
 ## Tools 
 
 - Mobsf 
+
 Mobile Security Framework (https://github.com/MobSF) é uma ferramenta que automatiza a análise de APKs. 
 Dentro dela conseguimos mais detalhes sobre as partes que compoẽm os APKs, e que vimos anteriormente. 
 
