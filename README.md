@@ -123,6 +123,7 @@ Comandos: //soon
 Agora que já temos uma base de como isso funciona, é hora de praticar! 
 Deixo aqui, uma lista com alguns labs que você pode usar como exercício: 
 
+### Em construção 
 
 Obrigada por chegar até aqui! 
 
