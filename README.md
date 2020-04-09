@@ -146,11 +146,9 @@ Verifique o IP do computador, que será utilizado como proxy.
 
 ### Ferramentas:  
 
-> Burp Suite 
-
-> MITM Proxy 
-
-> Charles 
+- Burp Suite 
+- MITM Proxy 
+- Charles 
 
 
 
