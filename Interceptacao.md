@@ -1,4 +1,4 @@
-#  Interceptando o Tráfego das Requisições de Aparelhos Android 
+#  Interceptando o Tráfego das Requisições em Android 
 
 ## 1 - Verificando as Configurações de Rede 
 
