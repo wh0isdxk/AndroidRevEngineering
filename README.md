@@ -131,3 +131,8 @@ Deixo aqui, uma lista com alguns labs que você pode usar como exercício:
 Obrigada por chegar até aqui! 
 
 Have a nice day. <3 
+
+
+
+
+[Interceptando o Tráfego das Requisições em Android](https://github.com/wh0isdxk/AndroidRE/blob/master/Interceptacao.md)
