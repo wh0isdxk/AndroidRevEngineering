@@ -126,6 +126,9 @@ Deixo aqui, uma lista com alguns labs que você pode usar como exercício:
 ### Em construção 
 
 
+
+
+
 #  Interceptando o Tráfego das Requisições de Aparelhos Android 
 
 ## 1 - Verificando as Configurações de Rede 
