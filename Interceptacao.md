@@ -32,11 +32,38 @@ Volte ao navegador do seu dispositvo móvel, entre em um site qualquer e veja se
 
 Se sim, ele estará funcionando. 
 
-## 4 - Interceptação de Tráfego 
+## 4 - Instalando o Certificado
+
+No seu computador, acesse https://burp, clique em CA Certificate e salve o arquivo;
+
+- Renomeie para cacert.cer e envie via e-mail para seu device;
+- Já no seu device, faça o download do certificado e siga os seguintes passos:
+- My files -> all files -> device storage -> downloads 
+
+(Verifique se o certificado se encontra nessa pasta ou localize o lugar onde ele se encontra)
+
+- Siga os seguintes passos: 
+- Settings -> More -> Permissions -> Security -> Install from device storage;
+- Instale o Certificado com o nome cacert e em Credencial Use: "VPN and apps";
+- Verifique se realmente foi instalado em "Trusted Credencials" (ele deverá estar como PortSwigger CA); 
+
+Estará funcionando corretamente se você estiver apta para visitar qualquer site sem que avisos de segurança apareçam no site na hora do acesso inicial. 
 
 
 ### Ferramentas:  
 
+Para interceptação: 
+
 - Burp Suite 
 - MITM Proxy 
 - Charles 
+
+Emuladores de Android: 
+
+- Genymotion 
+- Bluestacks 
+- Nox Player 
+
+
+
+> Em caso de dúvidas, entrar em contato. <3 
