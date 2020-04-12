@@ -111,6 +111,8 @@ Dentro dela conseguimos mais detalhes sobre as partes que compoẽm os APKs, e q
 
 - adb (Android Debug Bridge) 
 
+- androguard 
+
 Comandos: //soon
 
 
