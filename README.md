@@ -107,7 +107,13 @@ Dentro dela conseguimos mais detalhes sobre as partes que compoẽm os APKs, e q
 
 - apktool 
 
+O apktool é uma ferramenta Java opensource para engenharia reversa de aplicações Android.
+Ele pode decodificar arquivos APK para o seu código original em um XML legível por humanos. Também dividindo todas as classes
+e métodos contidos no arquivo em Smali. Dessa forma, você é capaz de modificar recursos ou as execuções do programa. Utilizando o código Smali, você pode adicionar novas funcionalidades dentro dessa aplicação ou alterar o comportamento esperado. 
+
 - Frida 
+
+Usado comumente para SSL Pinning. 
 
 - adb (Android Debug Bridge) 
 
