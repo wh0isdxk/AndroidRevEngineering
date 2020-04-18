@@ -119,12 +119,20 @@ Usado comumente para SSL Pinning.
 
 - androguard 
 
+- Xposed Framework 
+
 Comandos: //soon
 
 
 # Static Analysis 
 
 - Mobsf 
+
+# Bypass Root Detection and SSL Pinning 
+
+- Android SSL Bypass 
+
+- Frida 
 
 # Materiais 
 
