@@ -40,6 +40,10 @@ Dentro dele encontraremos os seguintes arquivos:
 
 - classes.dex 
 
+Quando descompilamos o apk, no .dex teremos todas as classes java que estão presentes no código do aplicativo. Esses arquivos são os exexutados pelo DVM (Dalvik Virtual Machine)e não inclui os recursos, que são mantidos separadamente na pasta /res. 
+
+Caso você decida modificar esse arquivo, estará alterando o comportamento dos programas; se excluir, ele deixará de ter um código executável. 
+
 - lib/ 
 
 - assets/ 
