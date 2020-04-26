@@ -161,3 +161,5 @@ Have a nice day. <3
 
 
 [Interceptando o Tráfego das Requisições em Android](https://github.com/wh0isdxk/AndroidRE/blob/master/Interceptacao.md)
+
+[Bypassing SSL Pinning](https://github.com/wh0isdxk/AndroidRevEngineering/blob/master/SSLPinning.md)
