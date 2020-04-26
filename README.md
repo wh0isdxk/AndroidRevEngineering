@@ -46,7 +46,11 @@ Caso você decida modificar esse arquivo, estará alterando o comportamento dos 
 
 - lib/ 
 
+Composto pelas bibliotecas nativas da aplicação. 
+
 - assets/ 
+
+Carregam consigo bibliotecas adicionais e outros arquivos que possam ser necessários para o App. 
 
 
 ### Smali/Baksmali 
