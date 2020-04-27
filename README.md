@@ -97,6 +97,13 @@ Chegando aqui, atente-se para algumas coisas que podem ser interessantes:
  
  (Ferramentas de Análise Dinâmica como o MOBSF permitem que você já consiga realizar o download do código diretamente, sendo ele em Java ou SMALI). 
 
+Agora vamos usar ferramentas, a primeira delas é o APKTOOL, você verá mais detalhes sobre ela abaixo, mas de uma forma geral ela vai ser responsável por descompiilar os arquivos, criando uma pasta, no mesmo lugar, com todos os arquivos descomplilados. A partir daqui, você conseguirá analisar todos os códigos necessarios. 
+
+O comando utilizado aqui vai ser o seguinte: 
+
+	- apktool d ~/Desktop/aplicativo_app.apk
+
+
 
 # Dynamic Analysis 
 
