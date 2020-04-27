@@ -149,8 +149,18 @@ Deixo aqui, uma lista com alguns labs que você pode usar como exercício:
 
 ### Em construção 
 
+...
+
+# Books 
+
+> Android Hacker's Handbook
+
+> The Mobile Application Hacker’s Handbook
+
+> Android Security Internals
 
 
+...
 
 Obrigada por chegar até aqui! 
 
