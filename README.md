@@ -102,7 +102,16 @@ Agora vamos usar ferramentas, a primeira delas é o APKTOOL, você verá mais de
 O comando utilizado aqui vai ser o seguinte: 
 
 	- apktool d ~/Desktop/aplicativo_app.apk
+	
+Extraindo o arquivo “classes.dex” do APK.
 
+Use a ferramenta dex2jar para converter em arquivos de classe Java. Resultando em um arquivo jar.
+
+	- sh d2j-dex2jar.sh classes.dex
+	
+Use o JD-GUI para extrair o código-fonte do arquivo jar.
+
+	- Arraste o arquivo classes-dex2jar.jar pro JD-GUI
 
 
 # Dynamic Analysis 
