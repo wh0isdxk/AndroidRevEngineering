@@ -160,11 +160,11 @@ Deixo aqui, uma lista com alguns labs que você pode usar como exercício:
 
 # Books 
 
-> Android Hacker's Handbook
+- Android Hacker's Handbook
 
-> The Mobile Application Hacker’s Handbook
+- The Mobile Application Hacker’s Handbook
 
-> Android Security Internals
+- Android Security Internals
 
 
 ...
