@@ -182,9 +182,6 @@ Obrigada por chegar até aqui!
 
 Have a nice day. <3 
 
-![giphy](https://user-images.githubusercontent.com/37185061/79876601-a2b63b80-83c1-11ea-8d49-abd479aecbd3.gif)
-
-
 
 [Interceptando o Tráfego das Requisições em Android](https://github.com/wh0isdxk/AndroidRE/blob/master/Interceptacao.md)
 
