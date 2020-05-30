@@ -16,4 +16,9 @@ Formas de prevenção:
 
 #### Connections 
 
+Internet
+
+Modelo OSI 
+
+
 #### 
