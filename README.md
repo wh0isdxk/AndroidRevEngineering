@@ -1,6 +1,15 @@
 # Android APK Reverse Engineering
 ### Avengers, Disassemble! 
 
+
+<p align="center">
+
+<img src="https://cdn2.iconfinder.com/data/icons/black-file-type/512/file__apk__android_-512.png" width=300 height=300>
+
+
+</p>
+
+
 Neste repositório encontraremos um passo-a-passo de como realizar a Engenharia Reversa de um APK. 
 
 Começando pelo básico, podemos dividir o nosso Android Package (APK) em algumas partes:  
