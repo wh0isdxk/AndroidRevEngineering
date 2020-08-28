@@ -172,9 +172,21 @@ Comandos: //soon
 Agora que já temos uma base de como isso funciona, é hora de praticar! 
 Deixo aqui, uma lista com alguns labs que você pode usar como exercício: 
 
-### Em construção 
+* [Damn Vulnerable Hybrid Mobile Application](https://github.com/logicalhacking/DVHMA)
+* [Android Digital Bank](https://github.com/CyberScions/Digitalbank)
+* [Damn Insecure and Vulnerable App](https://github.com/payatu/diva-android)
+* [Hackme Bank](http://www.mcafee.com/us/downloads/free-tools/hacme-bank-android.aspx)
+* [Insecure Bank](https://github.com/dineshshetty/Android-InsecureBankv2)
+* [Damn Vulnerable Android Application](https://code.google.com/archive/p/dvaa/)
+* [OWASP GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project)
+* [Dodo Vulnerable Bank](https://github.com/CSPF-Founder/DodoVulnerableBank)
+* [Vulnerable Android Application](https://github.com/dan7800/VulnerableAndroidAppOracle)
+* [Vulnerable Android Application - Urdu](http://urdusecurity.blogspot.co.uk/2014/08/Exploiting-debuggable-android-apps.html)
+* [MoshZuk](https://dl.dropboxusercontent.com/u/37776965/Work/MoshZuk.apk)
+* [AppKnox Vulnerable Application](https://github.com/appknox/vulnerable-application)
+* [Vulnerable Android Application](https://github.com/Lance0312/VulnApp)
+* [Security Compass Android Application](https://github.com/SecurityCompass/AndroidLabs)
 
-...
 
 # Books 
 
