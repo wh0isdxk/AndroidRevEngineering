@@ -186,6 +186,50 @@ Deixo aqui, uma lista com alguns labs que você pode usar como exercício:
 * [AppKnox Vulnerable Application](https://github.com/appknox/vulnerable-application)
 * [Vulnerable Android Application](https://github.com/Lance0312/VulnApp)
 * [Security Compass Android Application](https://github.com/SecurityCompass/AndroidLabs)
+* [SecurityShepherd](https://github.com/OWASP/SecurityShepherd)
+* [owasp-mstg](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes)
+* [VulnerableAndroidAppOracle](https://github.com/dan7800/VulnerableAndroidAppOracle)
+* [Android InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2)
+* [Purposefully Insecure and Vulnerable Android Application (PIIVA)](https://github.com/htbridge/pivaa)
+* [Sieve app](https://github.com/mwrlabs/drozer/releases/download/2.3.4/sieve.apk)
+
+### Recomendações 
+
+Teste os seguintes tipos de ataque: 
+
+* Broken crypto
+* Insecure data storage
+* Poor authentication
+* Untrusted input
+* Reverse engineering
+* Weak server-side controls
+* Client side injection
+* Content provider leakage
+* Unintended Data Leakage
+* Usage of weak Initialization Vector
+* Man-In-The-Middle Attack
+* Remote URL load in WebView
+* Object deserialization
+* SQL injection
+* Missing tapjacking protection
+* Enabled Application Backup
+* Enabled Debug Mode
+* Weak encryptionvHardcoded encryption keys
+* Dynamic load of codevCreation of world readable or writable files
+* Usage of unencrypted HTTP protocol
+* Weak hashing algorithms
+* Predictable Random Number Generator
+* Exported Content Providers with insufficient protection
+* Exported Broadcast Receivers
+* Exported ServicesvJS enabled in a WebView
+* Deprecated setPluginState in WebView
+* Hardcoded data
+* Untrusted CA acceptance
+* Usage of banned API functions
+* Self-signed CA enabled in WebView
+* Path Traversal
+* Cleartext SQLite database
+* Temporary file creation
 
 
 # Books 
@@ -197,7 +241,9 @@ Deixo aqui, uma lista com alguns labs que você pode usar como exercício:
 - Android Security Internals
 
 
-...
+.
+.
+.
 
 Obrigada por chegar até aqui! 
 
