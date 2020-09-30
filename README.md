@@ -253,3 +253,9 @@ Have a nice day. <3
 [Interceptando o Tráfego das Requisições em Android](https://github.com/wh0isdxk/AndroidRE/blob/master/Interceptacao.md)
 
 [Bypassing SSL Pinning](https://github.com/wh0isdxk/AndroidRevEngineering/blob/master/SSLPinning.md)
+
+
+
+<p align="center">
+  <img height="232" src="https://media.giphy.com/media/IbURvXPeb1DqVGEZKo/giphy.gif">
+</p>
