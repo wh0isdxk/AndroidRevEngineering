@@ -1,24 +1,58 @@
 # Superfície de Ataque em Dispositivos Móveis 
 
-#### Vetores de Ataque: 
+<p align="center">
+  <img src="https://cdn2.iconfinder.com/data/icons/flat-line-valentine-1/1010/smartphone-heart-256.png">
+</p>
 
-#### SMS Atacks 
+### via Browser 
+- Phishing
+- Buffer Overflow
+- Man-in-the-Middle
+- Clickjacking
+- Data Caching
+- Framing 
 
-Formas de prevenção: 
+### via Sistema
+- Weak Passcodes
+- Passwords accesible  
+- Weak Encryption
+- iOS Jailbreak
+- Android Rooting 
 
-- Não clicar em links, imagens ou qualquer tipo de arquivo presente, não responder esse tipo de ataque. 
-- Não ligar para números suspeitos presentes no SMS ou nas mensagens recebidas. 
+### via Phone
+- SMishing
+- Baseband Attacks
 
+### via Applications 
+- Source Code 
+  - Vulnerabilities 
+  - Secrets Hardcoded 
+- Weak Encryption
+- Misconfiguration (Permissions)
+- Sensitive Data Storage 
+- Escalated Privileges 
+- Config. Manipulation 
+- Improper SSL Validation 
 
-#### Data Storage 
+### via Network 
+- Wi-Fi with **no** encryption or weak encryption
+- Pocket Sniffing 
+- Man-in-the-Middle 
+- Session Hijacking 
+- DNS Poisoning
+- SSL Strip 
+- SSL Certificate 
 
-#### Social Engineering 
+### via Webserver
+- Vulnerabilities 
+- Misconfiguration 
+- Cross-Site Scripting (XSS) 
+- Cross-Site Request Forgery (XSRF)
+- Weak Input Validation 
+- Brute Force Attacks 
 
-#### Connections 
-
-Internet
-
-Modelo OSI 
-
-
-#### 
+### via Database 
+- SQL Injection 
+- Privilege Escalation 
+- Data Dumping 
+- Command Execution (OS)
