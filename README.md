@@ -209,6 +209,12 @@ Teste os seguintes tipos de ataque:
 
 - Android Security Internals
 
+- Android Security Cookbook 
+
+- Android Security Attacks and Defenses
+
+
+
 
 Obrigada por chegar até aqui! 
 
