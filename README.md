@@ -210,10 +210,6 @@ Teste os seguintes tipos de ataque:
 - Android Security Internals
 
 
-.
-.
-.
-
 Obrigada por chegar até aqui! 
 
 Have a nice day. <3 
