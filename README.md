@@ -12,6 +12,9 @@
 
 Neste repositório encontraremos um passo-a-passo de como realizar a Engenharia Reversa de um APK. 
 
+Engenharia Reversa pode nos ajudar em vários aspectos, como **identificar software ou código malicioso**, descobrir **falhas de segurança**, encontrar **funcionalidades que não eram esperadas**/quebras de regra de negócio... 
+Dito isso, vamos entrar mais a fundo sobre o universo Android. 
+
 Começando pelo básico, podemos dividir o nosso Android Package (APK) em algumas partes:  
 
 ![Untitled Diagram(1)](https://user-images.githubusercontent.com/37185061/76150991-a2224980-608e-11ea-8363-558491f9adda.png)
@@ -52,8 +55,6 @@ A termos de código, vamos dar uma olhada na diferença entre Java e Smali:
 	return-void
     .end method
 
-Tools: 
-Apktool 
 
 ### Avengers, disassemble! 
 
@@ -98,9 +99,28 @@ Use o JD-GUI para extrair o código-fonte do arquivo jar.
 
 ## Tools 
 
+#### Builders 
+
+- Android Studio 
+
+#### Breakers 
+
+- Frida 
+- Burp Suite 
+- dex2jar 
+- droxer 
+- apktool 
+- adb
+
+#### Static Analysis 
+
+- [MobSF](https://github.com/MobSF)
+
+#### Dynamic Analysis 
+
 - Mobsf 
 
-Mobile Security Framework (https://github.com/MobSF) é uma ferramenta que automatiza a análise de APKs. 
+Mobile Security Framework é uma ferramenta que automatiza a análise de APKs. 
 Dentro dela conseguimos mais detalhes sobre as partes que compoẽm os APKs, e que vimos anteriormente. 
 
 - dex2jar 
@@ -125,10 +145,6 @@ Usado comumente para SSL Pinning.
 
 Comandos: //soon
 
-
-# Static Analysis 
-
-- Mobsf 
 
 ### Bypass Root Detection and SSL Pinning 
 
