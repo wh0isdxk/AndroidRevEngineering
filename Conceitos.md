@@ -52,3 +52,22 @@ Diretório com todos os **recursos**, xlms de **atividades, layouts, imagens** e
 ### resources.arcs 
 
 Por último temos o arquivo que funciona como um **índice de todos os recursos mencionados**, mapeando essas entradas. 
+
+# 
+
+# Componentes 
+
+### Activities 
+Representam partes da aplicação onde há **interação com o usuário**, como formulários, botões, caixas de texto...
+
+### Services
+São como as activities, porém **rodam em segundo plano** (background), continuam funcionando mesmo quando o usuário abriu uma outra aplicação. 
+
+Possuem 2 modos: **iniciado** ou **vinculado** a alguma outra aplicação. 
+
+### Content Providers 
+Funcionam como uma **base de dados**, um storage que permite com que dados sejam armazenados de uma forma segura. 
+Também fornecem uma maneira padrão de recuperar, modificar e excluir dados.  
+
+### Broadcast Receivers 
+Permite ao sistema **distribuir eventos**, ou seja, uma parte do código da aplicação é executada quando um determinado evento acontece e, desde que tenha autorização, realiza uma ação, como notificação de SMS, por exemplo. 
