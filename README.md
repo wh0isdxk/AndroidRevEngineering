@@ -220,30 +220,19 @@ Teste os seguintes tipos de ataque:
 
 # Books 
 
-- Android Hacker's Handbook
-
-- The Mobile Application Hacker’s Handbook
-
-- Android Security Internals
-
-- Android Security Cookbook 
-
-- Android Security Attacks and Defenses
+- [Android Hacker's Handbook](https://www.amazon.com.br/Android-Hackers-Handbook-Joshua-Drake/dp/111860864X/ref=sr_1_1?keywords=android+hackers+handbook&qid=1644028298&sprefix=android+hacker%2Caps%2C189&sr=8-1&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147)
+- [The Mobile Application Hacker’s Handbook](https://www.amazon.com.br/Mobile-Application-Hacker%E2%80%B2s-Handbook/dp/1118958500/ref=sr_1_2?keywords=android+hackers+handbook&qid=1644028298&sprefix=android+hacker%2Caps%2C189&sr=8-2&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147)
+- [Android Security Internals](https://www.amazon.com.br/Android-Security-Internals-Depth-Architecture/dp/1593275811/ref=sr_1_4?keywords=android+hackers+handbook&qid=1644028298&sprefix=android+hacker%2Caps%2C189&sr=8-4&ufe=app_do%3Aamzn1.fos.e05b01e0-91a7-477e-a514-15a32325a6d6)
+- [Android Security Cookbook](https://www.amazon.com.br/Android-Security-Cookbook-Keith-Makan/dp/1782167161/ref=sr_1_1?keywords=android+security&qid=1644028398&s=books&sprefix=android+sec%2Cstripbooks%2C190&sr=1-1&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147)
+- [Android Security Attacks and Defenses](https://www.amazon.com.br/Android-Security-Defenses-Anmol-Misra/dp/1439896461/ref=sr_1_4?keywords=android+security&qid=1644028398&s=books&sprefix=android+sec%2Cstripbooks%2C190&sr=1-4&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d)
 
 
+### Links Interessantes
 
+- [Interceptando o Tráfego das Requisições em Android](https://github.com/wh0isdxk/AndroidRE/blob/master/Interceptacao.md)
+- [Bypassing SSL Pinning](https://github.com/wh0isdxk/AndroidRevEngineering/blob/master/SSLPinning.md)
 
-Obrigada por chegar até aqui! 
+#
+*Obrigada por chegar até aqui! 
+Have a nice day. <3*
 
-Have a nice day. <3 
-
-
-[Interceptando o Tráfego das Requisições em Android](https://github.com/wh0isdxk/AndroidRE/blob/master/Interceptacao.md)
-
-[Bypassing SSL Pinning](https://github.com/wh0isdxk/AndroidRevEngineering/blob/master/SSLPinning.md)
-
-
-
-<p align="center">
-  <img height="232" src="https://media.giphy.com/media/IbURvXPeb1DqVGEZKo/giphy.gif">
-</p>
