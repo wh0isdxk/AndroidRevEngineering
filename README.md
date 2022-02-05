@@ -20,17 +20,11 @@ Começando pelo básico, podemos dividir o nosso Android Package (APK) em alguma
 ![Untitled Diagram(1)](https://user-images.githubusercontent.com/37185061/76150991-a2224980-608e-11ea-8363-558491f9adda.png)
 
 - [AndroidManifest.xml](https://github.com/wh0isdxk/AndroidRevEngineering/new/master#androidmanifestxml)
-
 - [META-INF/](https://github.com/wh0isdxk/AndroidRevEngineering/new/master#meta-inf)
-
 - [classes.dex](https://github.com/wh0isdxk/AndroidRevEngineering/new/master#classesdex)
-
 - [lib/](https://github.com/wh0isdxk/AndroidRevEngineering/new/master#lib)
-
 - [assets/](https://github.com/wh0isdxk/AndroidRevEngineering/new/master#assets)
-
 - [res/](https://github.com/wh0isdxk/AndroidRevEngineering/new/master#res)
-
 - [resources.arcs](https://github.com/wh0isdxk/AndroidRevEngineering/new/master#resourcesarcs)
 
 
@@ -54,7 +48,14 @@ A termos de código, vamos dar uma olhada na diferença entre Java e Smali:
 	invoke-virtual {v0,v1}, Ljava/io/PrintStream;->println(Ljava/lang/String;)V
 	return-void
     .end method
+    
+    
+## Componentes da Aplicação 
 
+- [Activities](https://github.com/wh0isdxk/AndroidRevEngineering/blob/master/Conceitos.md#activities)
+- [Services](https://github.com/wh0isdxk/AndroidRevEngineering/blob/master/Conceitos.md#services)
+- [Content Providers](https://github.com/wh0isdxk/AndroidRevEngineering/blob/master/Conceitos.md#content-providers)
+- [Broadcast Receivers](https://github.com/wh0isdxk/AndroidRevEngineering/blob/master/Conceitos.md#broadcast-receivers)
 
 ### Avengers, disassemble! 
 
