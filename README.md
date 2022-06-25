@@ -1,19 +1,18 @@
-# Android APK Reverse Engineering
+![android](https://user-images.githubusercontent.com/37185061/175793659-70fe8f84-d297-4605-ba0e-6455ec0d79b5.png)
+
+
 ### Avengers, Disassemble! 
-
-
-<p align="center">
-
-<img src="https://cdn2.iconfinder.com/data/icons/black-file-type/512/file__apk__android_-512.png" width=300 height=300>
-
-
-</p>
-
 
 Neste repositório encontraremos um passo-a-passo de como realizar a Engenharia Reversa de um APK. 
 
 Engenharia Reversa pode nos ajudar em vários aspectos, como **identificar software ou código malicioso**, descobrir **falhas de segurança**, encontrar **funcionalidades que não eram esperadas**/quebras de regra de negócio... 
 Dito isso, vamos entrar mais a fundo sobre o universo Android. 
+
+<p align="center">
+
+<img src="https://cdn2.iconfinder.com/data/icons/black-file-type/512/file__apk__android_-512.png" width=300 height=300>
+
+</p>
 
 Começando pelo básico, podemos dividir o nosso Android Package (APK) em algumas partes:  
 
